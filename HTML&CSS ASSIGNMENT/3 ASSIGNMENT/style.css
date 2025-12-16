@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    margin: 0;
+}
+
+.title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.card {
+    background: white;
+    width: 220px;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+button {
+    padding: 8px 12px;
+    border: none;
+    background: #333;
+    color: white;
+    cursor: pointer;
+}

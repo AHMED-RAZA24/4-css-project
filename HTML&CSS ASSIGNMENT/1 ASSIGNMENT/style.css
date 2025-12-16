@@ -1,0 +1,49 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Page Background */
+body {
+    background: #f3f4f6;
+    padding: 20px;
+}
+
+/* Header */
+.header {
+    text-align: center;
+    margin-bottom: 25px;
+}
+.header h1 {
+    font-size: 2rem;
+    color: #111;
+}
+.tagline {
+    color: #555;
+}
+
+/* Card Sections */
+.card {
+    background: #ffffff;
+    padding: 18px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+.card h2 {
+    margin-bottom: 8px;
+    color: #1f2937;
+}
+.card ul {
+    margin-left: 18px;
+}
+
+/* Footer */
+.footer {
+    text-align: center;
+    color: #555;
+    margin-top: 20px;
+}
